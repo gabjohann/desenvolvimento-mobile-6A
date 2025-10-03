@@ -12,6 +12,7 @@ export default function Layout() {
 					backgroundColor,
 				},
 			}}
+			initialRouteName="index/index"
 		/>
 	)
 }
